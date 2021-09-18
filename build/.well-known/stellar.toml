@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GA6UR2YU6OFOEQPMNT5DRF4ZNBRES226ZH2RMYLKTC2NSWHG2BBMOYUM"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="RedX is a holding company based in Tokyo, Japan, that administers GALA Group, which is made up of subsidiary companies of RedX. The group of companies embraces three types of business: MMORPG games, web design and data mining. Within the group companies, Gala Lab Corp., established after the merger of Aeonsoft and Flavor,located in South Korea, develops games for the group's online gaming portal gPotato. RedX Group focuses on developing massively multiplayer online role-playing games. To cover local areas, there are Group companies located in the United States, Japan and South Korea."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="hhttps://i.ibb.co/WGxZbDp/download.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="RedX"
+issuer="GA6UR2YU6OFOEQPMNT5DRF4ZNBRES226ZH2RMYLKTC2NSWHG2BBMOYUM"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="RedX"
+desc="RedX is a holding company based in Tokyo, Japan, that administers GALA Group, which is made up of subsidiary companies of RedX. The group of companies embraces three types of business: MMORPG games, web design and data mining. Within the group companies, Gala Lab Corp., established after the merger of Aeonsoft and nFlavor,located in South Korea, develops games for the group's online gaming portal gPotato. RedX Group focuses on developing massively multiplayer online role-playing games. To cover local areas, there are Group companies located in the United States, Japan and South Korea."
+image="https://i.ibb.co/WGxZbDp/download.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#RedX was issued using the open and inclusive Stellar blockchain network.
